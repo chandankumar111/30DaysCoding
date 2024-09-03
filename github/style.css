@@ -1,0 +1,15 @@
+*{
+    background-color: blue;
+    padding: 0px;
+    margin: 0px;
+}
+
+ul>li{
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h1{
+    color:red;
+}
