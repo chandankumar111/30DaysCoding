@@ -1,0 +1,19 @@
+/* *{
+    color:orange;
+} */
+/* h1{
+    color: orange;
+}
+p{
+    color:skyblue;
+} */
+/* .heading{
+    color: orange;
+    border: 2px solid black;
+} */
+/* #head{
+    color: orange;
+} */
+h1,p{
+    color: orange;
+}
