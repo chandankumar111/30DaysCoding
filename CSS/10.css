@@ -1,0 +1,42 @@
+h1{
+    display: inline;
+    /* display: none; */
+    /* visibility: hidden; */
+}
+span{
+    display: block;
+}
+.container{
+    background-color: rgb(142,185,230);
+    height: 200px;
+    width: 400px;
+    position: relative;
+    overflow: scroll;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: gold;
+    /* position: static; */
+    /* position: fixed; */
+    /* position: absolute; */
+    position: sticky;
+    margin: 10px;
+    top: 20px;
+    /* left: 50px; */
+}
+.overflow{
+    height: 200px;
+    width: 200px;
+    background-color: orange;
+    overflow: auto;
+    /* overflow: hidden; */
+    /* overflow: visible; */
+    /* overflow: scroll; */
+}
+.boxfloat{
+    height: 100px;
+    width: 100px;
+    background-color: orange;
+    float: right;
+}

@@ -1,0 +1,13 @@
+/* body{
+    background-color: orange;
+    background-image: url(/Html/Image/computer\ 3.jpg);
+    background-size: cover; 
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+} */
+
+body{
+    background: orange url(/Html/Image/computer\ 3.jpg) center center/cover no-repeat fixed;
+}

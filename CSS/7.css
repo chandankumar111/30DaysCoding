@@ -1,0 +1,18 @@
+.hello{
+    /* color: orange; */
+    background-color: aqua;
+    text-align: center;
+    /* direction: ltr; */
+    text-decoration-line: line-through;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 10px;
+    text-transform: uppercase;
+    letter-spacing: 18px;
+    word-spacing: 20px;
+    text-shadow: 2px 2px 5px orange;
+}
+
+p{
+    text-align: justify;
+    text-indent: 30px;
+}

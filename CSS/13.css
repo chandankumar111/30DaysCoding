@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+.box1{
+    background-color: chocolate;
+    height: 120px;
+    width: 500px;
+    /* box-sizing: content-box; */
+    border: 5px solid black;
+    padding: 20px;
+}
+.box2{
+    background-color: plum;
+    height: 120px;
+    width: 500px;
+    box-sizing: border-box;
+    border: 5px solid black;
+    padding: 20px;
+}
